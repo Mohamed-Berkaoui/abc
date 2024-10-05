@@ -1,4 +1,8 @@
 linz 1 from master branch
 linz 2 from master branch
+<<<<<<< HEAD
 
 line3 form master branch
+
+line 1 form new branch 
+
