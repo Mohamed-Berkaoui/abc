@@ -1,2 +1,3 @@
 linz 1 from master branch
 linz 2 from master branch
+line 1 form new branch 
